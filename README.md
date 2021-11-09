@@ -1,1 +1,2 @@
-# interactive-web-visualization-challenge
+# plotly_challenge
+HTML and Javascript
